@@ -1,0 +1,7 @@
+C:\Users\visma\source\repos\PeakElement\bin\Debug\PeakElement.exe.config
+C:\Users\visma\source\repos\PeakElement\bin\Debug\PeakElement.exe
+C:\Users\visma\source\repos\PeakElement\bin\Debug\PeakElement.pdb
+C:\Users\visma\source\repos\PeakElement\obj\Debug\PeakElement.csproj.AssemblyReference.cache
+C:\Users\visma\source\repos\PeakElement\obj\Debug\PeakElement.csproj.CoreCompileInputs.cache
+C:\Users\visma\source\repos\PeakElement\obj\Debug\PeakElement.exe
+C:\Users\visma\source\repos\PeakElement\obj\Debug\PeakElement.pdb
