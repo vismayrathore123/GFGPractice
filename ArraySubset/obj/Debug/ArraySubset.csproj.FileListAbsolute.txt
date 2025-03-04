@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\bin\Debug\ArraySubset.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\bin\Debug\ArraySubset.exe
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\bin\Debug\ArraySubset.pdb
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\obj\Debug\ArraySubset.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\obj\Debug\ArraySubset.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\obj\Debug\ArraySubset.exe
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ArraySubset\obj\Debug\ArraySubset.pdb
