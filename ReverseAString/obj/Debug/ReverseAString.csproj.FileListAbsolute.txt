@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\bin\Debug\ReverseAString.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\bin\Debug\ReverseAString.exe
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\bin\Debug\ReverseAString.pdb
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\obj\Debug\ReverseAString.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\obj\Debug\ReverseAString.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\obj\Debug\ReverseAString.exe
+C:\Users\visma\OneDrive\Desktop\practice\GFGPractice\ReverseAString\obj\Debug\ReverseAString.pdb
